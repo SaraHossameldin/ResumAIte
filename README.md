@@ -1,8 +1,3 @@
-Here's your README content — just copy and paste:
-
----
-
-```
 # ResumAIte — Collaborative AI-Powered Resume Builder
 
 **Web Application · EdTech / CareerTech · B2C + B2B SaaS · 2025**
@@ -25,30 +20,33 @@ Because the core experience relies on multi-column layouts, real-time multi-user
 
 ---
 
-## Why a Web Application (Not Mobile)
+## Why Web-Only (Not Mobile)
 
 ResumAIte's defining features are physically impossible on a phone screen:
 
-- **Split-screen editor + live preview** — The editor and rendered resume sit side-by-side, requiring a viewport of at least 900px to be usable.
-- **Real-time multi-cursor collaboration** — Seeing teammates' cursors, selections, and edits simultaneously is a desktop-class interaction, identical to Google Docs.
-- **AI suggestions panel** — A persistent third panel showing AI rewrites and keyword recommendations requires horizontal screen space that no phone provides.
-- **Version history timeline** — Browsing, comparing, and restoring past drafts demands a large screen and precise mouse interaction.
+- **Split-screen editor + live preview** — requires a viewport of at least 900px to be usable.
+- **Real-time multi-cursor collaboration** — seeing teammates' cursors and edits simultaneously is a desktop-class interaction, identical to Google Docs.
+- **AI suggestions panel** — a persistent third panel showing AI rewrites and keyword recommendations requires horizontal screen space no phone provides.
+- **Version history timeline** — browsing, comparing, and restoring past drafts demands a large screen and precise mouse interaction.
 
 ---
 
 ## Competitive Advantage
 
-Existing tools are either basic (Canva, Zety) with no collaboration, or enterprise-grade applicant tracking systems too complex for individuals. ResumAIte fills the gap with three clear differentiators:
+Existing tools are either basic (Canva, Zety) with no collaboration, or enterprise-grade ATS systems too complex for individuals. ResumAIte fills the gap with three clear differentiators:
 
-- **Collaboration-first** — the only resume builder where multiple people edit together live, not by emailing files.
-- **AI that explains itself** — rather than auto-rewriting blindly, the AI panel shows the suggestion and why it improves the resume.
-- **Student-priced and instant** — sign up free in seconds, no enterprise contract, no setup — usable before a job deadline tonight.
+- **Collaboration-first** — the only resume builder where multiple people edit live together, not by emailing files.
+- **AI that explains itself** — the AI panel shows the suggestion and the reason it improves the resume, rather than auto-rewriting blindly.
+- **Student-priced and instant** — free sign-up in seconds, no enterprise contract, usable before a job deadline tonight.
 
 ---
 
 ## Business Model
 
 | Market | Revenue Model | Build Estimate |
-|--------|--------------|----------------|
-| Universities, career changers | $9 – $29/mo · Tiered SaaS + institution licences | 3-Week MVP (Editor · AI Panel · Live Preview) |
-```
+|--------|---------------|----------------|
+| Universities & career changers | $9 – $29 / mo · Tiered SaaS + institution licences | 3-Week MVP |
+
+---
+
+*Course Project Proposal · Web Application Development · 2025*
